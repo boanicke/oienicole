@@ -13,6 +13,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{oienicole}/count.svg" /></p> 
 <br></div>
   
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
-
